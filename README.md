@@ -7,6 +7,8 @@
 <br/><br/> 
 
 # 💻 Tech stack
+[![My Skills](https://skillicons.dev/icons?i=bash,python,matlab,r,linux,powershell,anaconda,docker)](https://skillicons.dev)
+<!-- 
 ![Bash](https://skillicons.dev/icons?i=bash) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://skillicons.dev/icons?i=python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![MATLAB](https://skillicons.dev/icons?i=matlab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,6 +18,7 @@
 ![Anaconda](https://skillicons.dev/icons?i=anaconda) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Docker](https://skillicons.dev/icons?i=docker) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Notion](https://skillicons.dev/icons?i=notion)         
+
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,11 +30,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=harinoh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harinoh&icon=0&color=0)](https://visitcount.itsvg.in) 
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🔬 Featured Projects
+<br/><br/> 
+# 🔬 Featured Projects
 
 - **[Thalamocortical gradient](https://github.com/harinoh/thalamocortical_gradient)** – Gradient-based thalamocortical analysis using connectopic mapping and step-wise functional connectivity  
 - **[Brain template](https://github.com/harinoh/BrainTemplate)** – Automated population/ethnicity specific brain template construction pipeline using ANTS
