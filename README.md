@@ -40,7 +40,7 @@
 
 - **[Thalamocortical gradient](https://github.com/harinoh/thalamocortical_gradient)** – Gradient-based thalamocortical analysis using connectopic mapping and step-wise functional connectivity  
 - **[Brain template](https://github.com/harinoh/BrainTemplate)** – Automated population/ethnicity specific brain template construction pipeline using ANTS
-<!--- - **[rs-fMRI preprocessing](https://github.com/harinoh/fMRI_Preprocessing)** – resting state fMRI brain preprocessing using FSL -->
+- **[rs-fMRI preprocessing](https://github.com/harinoh/fMRI_Preprocessing)** – resting state fMRI brain preprocessing using FSL
 
 
 <br/><br/> 
